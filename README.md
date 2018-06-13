@@ -25,6 +25,8 @@ Nothing yet.
 ## Getting help
 
 To report bugs or request usage help, email me at c2390.wilson@gmail.com
+Or
+Fill out a comment on the Issue page.
 
 ----
 
