@@ -1,0 +1,9 @@
+C:\Users\Cody Wilson\Desktop\Flatline Open Source Release\Test Folder\FlatlineDDNS\FlatlineClassLibrary\bin\Debug\netstandard2.0\FlatlineClassLibrary.deps.json
+C:\Users\Cody Wilson\Desktop\Flatline Open Source Release\Test Folder\FlatlineDDNS\FlatlineClassLibrary\bin\Debug\netstandard2.0\FlatlineClassLibrary.dll
+C:\Users\Cody Wilson\Desktop\Flatline Open Source Release\Test Folder\FlatlineDDNS\FlatlineClassLibrary\bin\Debug\netstandard2.0\FlatlineClassLibrary.pdb
+C:\Users\Cody Wilson\Desktop\Flatline Open Source Release\Test Folder\FlatlineDDNS\FlatlineClassLibrary\obj\Debug\netstandard2.0\FlatlineClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Cody Wilson\Desktop\Flatline Open Source Release\Test Folder\FlatlineDDNS\FlatlineClassLibrary\obj\Debug\netstandard2.0\FlatlineClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Cody Wilson\Desktop\Flatline Open Source Release\Test Folder\FlatlineDDNS\FlatlineClassLibrary\obj\Debug\netstandard2.0\FlatlineClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Cody Wilson\Desktop\Flatline Open Source Release\Test Folder\FlatlineDDNS\FlatlineClassLibrary\obj\Debug\netstandard2.0\FlatlineClassLibrary.AssemblyInfo.cs
+C:\Users\Cody Wilson\Desktop\Flatline Open Source Release\Test Folder\FlatlineDDNS\FlatlineClassLibrary\obj\Debug\netstandard2.0\FlatlineClassLibrary.dll
+C:\Users\Cody Wilson\Desktop\Flatline Open Source Release\Test Folder\FlatlineDDNS\FlatlineClassLibrary\obj\Debug\netstandard2.0\FlatlineClassLibrary.pdb
