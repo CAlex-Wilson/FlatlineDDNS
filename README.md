@@ -1,6 +1,6 @@
 ## Installation
 
-The source files are pre-built with v1.0. Simply open the solution in Visual Studio:
+To download a set up file, visit the releases section.
 
 ----
 
