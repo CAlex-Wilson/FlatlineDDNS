@@ -2,6 +2,8 @@
 
 To download a set up file, visit the releases section.
 
+For source code, simply open the included solution project in Visual Studio 2017 or above.
+
 ----
 
 # Flatline DDNS
