@@ -13,19 +13,19 @@ update your Google Domains DDNS IP address.
   - **Status**:  Beta, v1.0, [CHANGELOG](CHANGELOG.md).
   
 **Notable Feautures**:
-Add an unlimited number of Google Domains.
-Enable and disable Domains at any time.
-Update multiple domains at once.
-Receive detailed repsonse codes on every update.
-Windows Task Tray on minimize.
-Force updates at any time.
-See when updates and syncs occur.
-Edit domain information at any time.
+- Add an unlimited number of Google Domains.\
+- Enable and disable Domains at any time.\
+- Update multiple domains at once.\
+- Receive detailed repsonse codes on every update.\
+- Windows Task Tray on minimize.\
+- Force updates at any time.\
+- See when updates and syncs occur.\
+- Edit domain information at any time.\
 
 **Screenshots**:
 
-![](https://raw.githubusercontent.com/CAlex-Wilson/FlatlineDDNS/master/mainUI.png)
-![](https://raw.githubusercontent.com/CAlex-Wilson/FlatlineDDNS/master/StartUI.png)
+![](https://raw.githubusercontent.com/CAlex-Wilson/FlatlineDDNS/master/mainUI.png)\
+![](https://raw.githubusercontent.com/CAlex-Wilson/FlatlineDDNS/master/StartUI.png)\
 ![](https://raw.githubusercontent.com/CAlex-Wilson/FlatlineDDNS/master/ConfigUI.png)
 
 ## Known issues
