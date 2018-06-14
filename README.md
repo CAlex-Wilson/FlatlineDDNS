@@ -13,14 +13,14 @@ update your Google Domains DDNS IP address.
   - **Status**:  Beta, v1.0, [CHANGELOG](CHANGELOG.md).
   
 **Notable Feautures**:
-- Add an unlimited number of Google Domains.\
-- Enable and disable Domains at any time.\
-- Update multiple domains at once.\
-- Receive detailed repsonse codes on every update.\
-- Windows Task Tray on minimize.\
-- Force updates at any time.\
-- See when updates and syncs occur.\
-- Edit domain information at any time.\
+- Add an unlimited number of Google Domains.<br/>
+- Enable and disable Domains at any time.<br/>
+- Update multiple domains at once.<br/>
+- Receive detailed repsonse codes on every update.<br/>
+- Windows Task Tray on minimize.<br/>
+- Force updates at any time.<br/>
+- See when updates and syncs occur.<br/>
+- Edit domain information at any time.<br/>
 
 **Screenshots**:
 
