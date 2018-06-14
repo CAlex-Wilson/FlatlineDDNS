@@ -23,7 +23,9 @@ update your Google Domains DDNS IP address.
 - Edit domain information at any time.<br/>
 
 **Screenshots**:
-
+<img src="https://raw.githubusercontent.com/CAlex-Wilson/FlatlineDDNS/master/mainUI.png" width="50">\
+<img src="https://raw.githubusercontent.com/CAlex-Wilson/FlatlineDDNS/master/StartUI.png" width="50">\
+<img src="https://raw.githubusercontent.com/CAlex-Wilson/FlatlineDDNS/master/ConfigUI.png" width="50%">\
 ![](https://raw.githubusercontent.com/CAlex-Wilson/FlatlineDDNS/master/mainUI.png)\
 ![](https://raw.githubusercontent.com/CAlex-Wilson/FlatlineDDNS/master/StartUI.png)\
 ![](https://raw.githubusercontent.com/CAlex-Wilson/FlatlineDDNS/master/ConfigUI.png)
