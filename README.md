@@ -24,9 +24,7 @@ update your Google Domains DDNS IP address.
 
 **Screenshots**:
 
-<img src="https://raw.githubusercontent.com/CAlex-Wilson/FlatlineDDNS/master/mainUI.png" width="30%">
-<img src="https://raw.githubusercontent.com/CAlex-Wilson/FlatlineDDNS/master/StartUI.png" width="30%">
-<img src="https://raw.githubusercontent.com/CAlex-Wilson/FlatlineDDNS/master/ConfigUI.png" width="30%">
+<img src="https://raw.githubusercontent.com/CAlex-Wilson/FlatlineDDNS/master/mainUI.png" width="30%"><img src="https://raw.githubusercontent.com/CAlex-Wilson/FlatlineDDNS/master/StartUI.png" width="30%"><img src="https://raw.githubusercontent.com/CAlex-Wilson/FlatlineDDNS/master/ConfigUI.png" width="30%">
 
 ## Known issues
 
